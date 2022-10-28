@@ -1,14 +1,16 @@
 ## PRATIKUM 3
 
-| Nama  | M Muammar |
-| Nim   | 312210663 |
-| Kelas | Ti.22.B1  |
+| Nama : M Muammar |
+| Nim  : 312210663 |
+| Kelas  : Ti.22.B1  |
 
 ## Menghitung luas dan keliling lingkaran
 
 ## Flowchart luas dan keliling lingkaran
 
+
 ![image](img/Flowchart.jpg)
+
 
 ## Kode menghitung luas dan keliling lingkaran menggunakan python
 
@@ -24,7 +26,7 @@ saya contoh pakai nilai 12 lalu tekan enter.
 ![image](img/nilaijari2.JPG)
 
 
-_Hasil kode penghitungan luas dan keliling lingkaran diatas_
+Hasil kode penghitungan luas dan keliling lingkaran diatas.
 
 
 ![image](img/output.JPG)
@@ -41,5 +43,5 @@ output pi
 ![image](img/output.phi.JPG)
 
 
-Selanjutnya kita memerlukan nilaijari-jari(r) yang nanti akan dimasukan oleh pengguna pada layar console. Kita menggunakan fungsi __input()__ yang nilainya di konversi ke type data float(bilangan rill).Ingat bahwa fungsi input() akan menganggap semua nilai inputan bertipe string, sehingga kita perlu melakukan konversi ke type yang diinginkan.
-Ketika kita sudah menemukan nilai phi dan jari selanjutnya kita bisa menghitung luas dan keliling lingkaran sesuai rumusnya masing-masing.S
+Selanjutnya kita memerlukan nilaijari-jari(r) yang nanti akan dimasukan oleh pengguna pada layar _console._ Kita menggunakan fungsi __input()__ yang nilainya di konversi ke type data float(bilangan rill).Ingat bahwa fungsi __input()__ akan menganggap semua nilai inputan bertipe string, sehingga kita perlu melakukan konversi ke type yang diinginkan.
+Ketika kita sudah menemukan nilai phi dan jari selanjutnya kita bisa menghitung luas dan keliling lingkaran sesuai rumusnya masing-masing.
